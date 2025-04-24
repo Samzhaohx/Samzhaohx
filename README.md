@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm California</h1>
+<h1 align="center">Hi, I'm California</h1>
 <h3 align="center">A student who loves development and reverse</h3>
 
 
